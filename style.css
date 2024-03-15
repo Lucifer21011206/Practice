@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("one.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container main{
+    color: white;
+
+}
+
+.container h1{
+    color: white;
+    margin-top: 60px;
+    margin-left: 480px;
+    height: 60px;
+}
+
+.container2 h1{
+    color: white;
+    margin-top: 5px;
+    margin-left: 550px;
+    height: 60px;
+}
+
+.container3 h1{
+    color: white;
+    margin-top: 5px;
+    margin-left: 610px;
+    height: 60px;
+}
+
+.container4 h1{
+    color: white;
+    margin-top: 60px;
+    margin-left: 630px;
+    height: 60px;
+}
+
+.container6 h1{
+    color: black;
+    margin-top: 8px;
+    margin-left: 50px;
+    height: 60px;
+}
+
+.container6 p{
+    margin-left: 50px;
+    color: white;
+    height: 30px;
+}
+.container5 twitter{
+    display: flex;
+}
+
+nav{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.container5 ul{
+    display: flex;
+    list-style: none;
+}
+
+.twitter img{
+    height: 60px;
+    margin: 50px;
+    bottom: 10px 10px;
+}
+
+.twitter1 img{
+    height: 60px;
+    margin: 50px;
+    width: 220px;
+    bottom: 10px 10px;
+
+}
+
+.twitter2 img{
+    height: 60px;
+
+    bottom: 10px 10px;
+    margin: 50px;
+}
+
+.twitter3 img{
+
+    bottom: 10px 10px;
+    height: 60px;
+    margin: 50px;
+}
+
+.twitter4 img{
+    height: 60px;
+    margin: 50px;
+    bottom: 10px 10px;
+
+}
+
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: whitesmoke;
+    color: white;
+    height: 42px;
+}
+
+nav ul li{
+    padding: 0 12px;
+    color: black;
+    /* margin-left: 40px; */
+}
+
+.home{
+    margin-left: 650px;
+}
+
+.brand{
+    width: 44px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.button{
+    margin-left: 90px;
+    background-color: rgb(11, 235, 167);
+    color: white;
+    height: 30px;
+    text-shadow: 10cap;
+    text-decoration:solid;
+    text-align: center;
+}
